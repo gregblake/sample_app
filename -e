@@ -1,4 +1,4 @@
-Exception encountered: #<LoadError: cannot load such file -- /Users/greg/stuff/emerald_city_meetup_rails_tutorial/rails_projects/sample_app/signup with valid information>
+Exception encountered: #<LoadError: cannot load such file -- /Users/greg/stuff/emerald_city_meetup_rails_tutorial/rails_projects/sample_app/signin with invalid information>
 backtrace:
 /Users/greg/.rvm/gems/ruby-1.9.3-p194@rails3tutorial2ndEd/gems/activesupport-3.2.8/lib/active_support/dependencies.rb:245:in `load'
 /Users/greg/.rvm/gems/ruby-1.9.3-p194@rails3tutorial2ndEd/gems/activesupport-3.2.8/lib/active_support/dependencies.rb:245:in `block in load'
